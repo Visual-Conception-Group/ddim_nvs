@@ -1,6 +1,10 @@
 <h1>Novel View Synthesis using DDIM Inversion</h1>
 
-[![ProEdit(Arxiv)](https://img.shields.io/badge/arXiv-ddim_nvs-b31b1b.svg)](https://arxiv.org/pdf/2508.10688) 
+[![ProEdit(Arxiv)](https://img.shields.io/badge/arXiv-ddim_nvs-b31b1b.svg)](https://arxiv.org/abs/2508.10688) 
+
+This repository contains the implementation of the following paper.
+> **Novel View Synthesis using DDIM Inversion**<br>
+> [Sehajdeep Singh], [A V Subramanyam], [Aditya Gupta], [Sahil Gupta],<br>
 ---
 # Methodology
 ---
