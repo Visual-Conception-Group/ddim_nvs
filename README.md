@@ -1,4 +1,6 @@
-# Novel View Synthesis using DDIM Inversion
+<h1>Novel View Synthesis using DDIM Inversion</h1>
+
+[![ProEdit(Arxiv)](https://img.shields.io/badge/arXiv-ddim_nvs-b31b1b.svg)](https://arxiv.org/pdf/2508.10688) 
 ---
 # Methodology
 ---
