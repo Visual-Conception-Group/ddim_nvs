@@ -4,7 +4,7 @@
 
 This repository contains the implementation of the following paper.
 > **Novel View Synthesis using DDIM Inversion**<br>
-> Sehajdeep Singh, A V Subramanyam, Aditya Gupta, Sahil Gupta<br>
+> [Sehajdeep Singh](https://sehajsasan.github.io/), [A V Subramanyam](https://www.iiitd.ac.in/subramanyam), Aditya Gupta, Sahil Gupta<br>
 ---
 # Methodology
 ---
