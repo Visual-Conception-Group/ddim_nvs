@@ -8,7 +8,7 @@ This repository contains the implementation of the following paper.
 ---
 # Methodology
 ---
-![Methodology](arch_diag_2.png)
+![Methodology](arch.png)
 
 <!-- **Overview:**   -->
 Given a single reference image $`\mathbf{x_{\text{ref}}}`$, we first apply DDIM inversion up to $`t=600`$ to obtain the mean latent $`\mathbf{z}_{\text{ref},\mu}^{\text{inv}}`$. 
